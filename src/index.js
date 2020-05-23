@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
 import './index.scss';
-import './common/css/common.css';
-import './common/css/reset.css';
+import './common/css/common.scss';
+import './common/css/reset.scss';
 
 import noMatch from "./components/noMatch";
 import App from './App';
